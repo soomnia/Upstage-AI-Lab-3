@@ -9,3 +9,7 @@ Fastcampus AI bootcamp with Upstage
 24.04.05
 ### 01-web-crawling
 웹 크롤링
+
+24.04.09
+### 03-FastAPI
+Fast API 간단 학습!

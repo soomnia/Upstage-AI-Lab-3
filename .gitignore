@@ -3,3 +3,9 @@
 ## output files
 *.csv
 *.xlsx
+
+## venv
+.venv
+
+##
+__pycache__
