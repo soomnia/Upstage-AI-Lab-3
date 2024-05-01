@@ -3,6 +3,7 @@
 ## output files
 *.csv
 *.xlsx
+*.html
 
 ## venv
 .venv
